@@ -1,5 +1,4 @@
-<h1>Hello, I'm James! <br/><a href="https://github.com/jamesryla">Cyber Enthusiast</a>, <a [https://tryhackme.com/p/ryla]"
-
+<h1>Hello, I'm James! <br/><a href="https://github.com/jamesryla">Cyber Enthusiast</a>, <a https://tryhackme.com/p/ryla"
 
 <h2>CTF Tools:</h2>
 
