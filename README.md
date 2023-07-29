@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hello, I'm James! <br/><a href="https://github.com/jamesryla">Cyber Enthusiast</a>, <a [https://tryhackme.com/p/ryla]"
 
-<!--
-**jamesryla/jamesryla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>CTF Tools:</h2>
+
+- <b>Description1</b>
+  - Details
+- <b>Description2</b>
+  - Details <b><i>
+
+<h2>Another Section
+
+- <b>Description1</b>
+  - Details
+- <b>Description2</b>
+  - Details <b><i>
+
+<h2> Socials:</h2>
 
 Here are some ideas to get you started:
 
