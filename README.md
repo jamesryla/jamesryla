@@ -7,7 +7,7 @@
 - <b>Description2</b>
   - Details <b><i>
 
-<h2>Another Section
+<h2>Another Section:</h2>
 
 - <b>Description1</b>
   - Details
