@@ -10,7 +10,6 @@
 <h2>Exercises:</h2>
 
 - <b>conti_tabletop</b>
-  
   - [Using Splunk with Sysmon & IIS logs to track Conti Ransomware](https://github.com/jamesryla/conti_tabletop) 
 
 - <b>Description1</b>
