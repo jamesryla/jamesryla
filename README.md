@@ -20,3 +20,4 @@
 - via linkedin
 - by email jamesmrylander@gmail.com
 - on [tryhackme](https://tryhackme.com/p/ryla) 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/ryla.png" alt="TryHackMe">
