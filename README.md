@@ -2,18 +2,28 @@
 
 <h3>Projects</h3>
 
-- <b>photool</b> - [A ctf & osint tool for pulling info from images.](https://github.com/jamesryla/photool)
+- photool - [A ctf & osint tool for pulling info from images.](https://github.com/jamesryla/photool)
 
-- <b>conti_tabletop</b> - [Using Splunk with Sysmon & IIS logs to track Conti Ransomware](https://github.com/jamesryla/conti_tabletop) 
+- conti_tabletop - [Using Splunk with Sysmon & IIS logs to track Conti Ransomware](https://github.com/jamesryla/conti_tabletop) 
 
-- <b>Another project</b>
+- Another project
   - Details
 
 <h3>I am currently working on</h3>
 
-- <b>comptia sec+</b>
+- comptia sec+
 
-- <b>developing custom IDS rules for Snort</b>
+- developing custom IDS rules for Snort
+
+<h3>I have experience in</h3>
+
+Defense
+
+- defense frameworks, SIEMs, threat intel, traffic analysis, digital forensics
+
+Offense
+
+- OSINT, enumeration, web exploitation, tools of the trade
 
 <h3> Where you can find me</h3>
 
