@@ -13,7 +13,7 @@
 
 - comptia sec+
 
-- developing custom IDS rules for Snort
+- Snort
 
 <h3>I have experience in</h3>
 
