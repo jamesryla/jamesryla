@@ -7,8 +7,7 @@
 - conti_tabletop - [Using Splunk with Sysmon & IIS logs to track Conti Ransomware](https://github.com/jamesryla/conti_tabletop) 
 
 - blacksun_tabletop - [Using Splunk with Sysmon logs to track BlackSun ransomware](https://github.com/jamesryla/blacksun_tabletop)
-  - Details
-
+- 
 <h3>I am currently working on</h3>
 
 - comptia sec+
