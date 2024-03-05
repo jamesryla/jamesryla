@@ -10,9 +10,12 @@
 
 <h3>I am currently working on</h3>
 
-- comptia sec+
+- CompTIA CySA+
 
 - Snort
+
+<h3>My Certifications</h3>
+<img src="https://github.com/jamesryla/jamesryla/assets/58945104/91cad2b7-4228-4863-91d1-3c611c1ef770"> <img src="https://github.com/jamesryla/jamesryla/assets/58945104/013da896-de63-4b44-92e2-37de1ee59c9a">
 
 <h3>I have experience in</h3>
 
