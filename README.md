@@ -4,6 +4,8 @@
 
 - photool - [A ctf & osint tool for pulling info from images.](https://github.com/jamesryla/photool)
 
+- metawipe - [A tool for removing exif data from images.](https://github.com/jamesryla/metawipe)
+
 - conti_tabletop - [Using Splunk with Sysmon & IIS logs to track Conti ransomware](https://github.com/jamesryla/conti_tabletop) 
 
 - blacksun_tabletop - [Using Splunk with Sysmon logs to track BlackSun ransomware](https://github.com/jamesryla/blacksun_tabletop)
