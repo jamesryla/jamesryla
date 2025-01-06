@@ -31,7 +31,7 @@ Offense
 
 <h3> Where you can find me</h3>
 
-- via linkedin
+- via [linkedin](https://www.linkedin.com/in/jamesrylander/)
 - by email jamesmrylander@gmail.com
 - on [tryhackme](https://tryhackme.com/p/ryla) 
  <img src="https://tryhackme-badges.s3.amazonaws.com/ryla.png" alt="TryHackMe">
