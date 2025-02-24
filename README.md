@@ -1,8 +1,7 @@
 <h1>Hello, I'm<a href="https://github.com/jamesryla"> James</a>! <br/>A blue team cyber enthusiast.
 
 
-<h3>Experience</h3>
-- [Resume](https://github.com/jamesryla/resume/blob/main/resume.pdf)
+<h3><a href="https://github.com/jamesryla/resume/blob/main/resume.pdf"> Resume</a></h3>
 
 <h3>Projects</h3>
 
