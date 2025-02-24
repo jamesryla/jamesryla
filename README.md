@@ -1,5 +1,7 @@
 <h1>Hello, I'm<a href="https://github.com/jamesryla"> James</a>! <br/>A blue team cyber enthusiast.
 
+<h3>[Resume](https://github.com/jamesryla/resume/blob/main/resume.pdf)</h3>
+
 <h3>Projects</h3>
 
 - photool - [A ctf & osint tool for pulling info from images.](https://github.com/jamesryla/photool)
